@@ -9,7 +9,7 @@ export default createConfig({
     {
       slug: "builders",
       image:
-        "https://station-images.nyc3.digitaloceanspaces.com/960cdd2f-fcb7-4059-a683-c1f5025d6434",
+        "https://ipfs.io/ipfs/QmNq2i3Tm6NdgiktKRG6Xxk6BoJFAdzdKKxhBhsAuLjJD1",
       tokenStandard: "ERC721",
       chainId: 1,
       contractAddress: "0x33dbde2e093b7cf8446d9ac0de79220d42423501",
